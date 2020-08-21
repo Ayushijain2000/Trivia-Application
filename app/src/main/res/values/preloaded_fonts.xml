@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aclonica</item>
+        <item>@font/amaranth</item>
+        <item>@font/asset</item>
+        <item>@font/bangers</item>
+        <item>@font/berkshire_swash</item>
+        <item>@font/chewy</item>
+        <item>@font/diplomata</item>
+        <item>@font/frijole</item>
+        <item>@font/luckiest_guy</item>
+        <item>@font/nosifer</item>
+        <item>@font/plaster</item>
+    </array>
+</resources>
